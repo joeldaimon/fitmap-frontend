@@ -2,7 +2,7 @@ import api from "./axios";
 
 export interface Progreso {
     usuarioNombre: string;
-    ejercicioNombre: number;
+    ejercicioNombre: string;
     repeticiones: number;
     peso: number;
     fecha: string;

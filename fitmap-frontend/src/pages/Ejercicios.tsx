@@ -64,9 +64,6 @@ function Ejercicios() {
           </div>
         ))}
       </div>
-      <button>
-        <p>Crear ejercicio</p>
-      </button>
     </div>
   );
 }
